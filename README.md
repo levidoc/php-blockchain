@@ -1,4 +1,9 @@
-# Simple PHP Blockchain
+# Simple Blockchain In PHP 
+
+## Understanding Blockchain
+
+A blockchain works by creating a secure, transparent, and tamper-proof record of transactions through the use of cryptographic hashing, chaining, decentralization, and a consensus mechanism. This technology has the potential to revolutionize various industries by providing a more secure and efficient way to manage and verify data.
+## Understanding The Project 
 
 This is a simplified PHP implementation of a blockchain for educational purposes.  It demonstrates the core concepts of a blockchain, including blocks, hashing, and the chain structure.  **This implementation is NOT suitable for production use** as it lacks critical features for scalability.
 
